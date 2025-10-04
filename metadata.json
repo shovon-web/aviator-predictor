@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Aviator Forecast web",
+  "description": "An overlay tool for Aviator game enthusiasts that provides AI-powered predictions for upcoming rounds. It analyzes multiplier history, identifies patterns, and suggests strategic advice to enhance gameplay.",
+  "requestFramePermissions": []
+}
